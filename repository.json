@@ -1,0 +1,13 @@
+{
+  "author": "Anthony S.",
+  "gitHubUrl": "https://github.com/tonesto7",
+  "payPalUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWBN4LB9NMHZ4",
+  "packages": [
+    {
+      "name": "Echo Speaks",
+      "category": "Notifications",
+      "location": "https://raw.githubusercontent.com/tonesto7/echo-speaks/master/packageManifest.json",
+      "description": "Integrate your Amazon Echo devices into your SmartThings and Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback including volume, and many other Alexa features."
+    }
+  ]
+}
