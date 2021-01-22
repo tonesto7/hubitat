@@ -11,6 +11,13 @@
       "tags": [ "Automations & Groups", "Notifications", "Multimedia", "Speakers", "Integrations", "Timers", "Voice Assistants", "Misc. Devices", "Tools & Utilities", "Safety & Security" ]
     },
     {
+      "name": "Echo Speaks (BETA)",
+      "category": "Notifications",
+      "location": "https://raw.githubusercontent.com/tonesto7/echo-speaks/master/packageManifestBeta.json",
+      "description": "Integrate your Amazon Echo devices into your Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback including volume, and many other Alexa features.",
+      "tags": [ "Automations & Groups", "Notifications", "Multimedia", "Speakers", "Integrations", "Timers", "Voice Assistants", "Misc. Devices", "Tools & Utilities", "Safety & Security" ]
+    },
+    {
       "name": "Homebridge v2.0",
       "category": "Convienence",
       "location": "https://raw.githubusercontent.com/tonesto7/homebridge-hubitat-tonesto7/master/packageManifest.json",
