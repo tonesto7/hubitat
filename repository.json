@@ -19,7 +19,7 @@
     },
     {
       "name": "Homebridge v2.0",
-      "category": "Convienence",
+      "category": "Convenience",
       "location": "https://raw.githubusercontent.com/tonesto7/homebridge-hubitat-tonesto7/master/packageManifest.json",
       "description": "Provides the API interface between Homebridge (HomeKit) and Hubitat.",
       "tags": [ "Automations & Groups", "Notifications", "Integrations", "Voice Assistants", "Misc. Devices", "Tools & Utilities", "Safety & Security", "HomeKit" ]
